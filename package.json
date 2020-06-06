@@ -1,6 +1,6 @@
 {
   "name": "@mm0202/react-components",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "react components",
   "private": true,
   "main": "dist/index.js",
