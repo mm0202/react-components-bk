@@ -9,4 +9,3 @@ check by `npm version -h`
 
 # unpublish
 `npm unpublish [<@scope>/]<pkg>[@<version>]` in 72 hours
-
